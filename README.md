@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in using data to solve business problems
+- 👀 I’m interested in the implementation of data to solve business problems
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on projects that involve providing business solutions 
 - 📫 How to reach me: You can reach me via email davidbamigbade66@gmail.com or linkedin www.linkedin.com/in/david-bamigbade
